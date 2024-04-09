@@ -5,7 +5,7 @@
 ## Descrição
 
 <p align="justify">
-Projeto desenvolvido em html, css e javascript do meu portfólio para apresentação de alguns dos meus projetos.
+Projeto para o meu portfólio e apresentar alguns dos meus projetos.
 </p>
 
 
