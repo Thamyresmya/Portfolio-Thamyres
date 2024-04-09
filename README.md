@@ -5,7 +5,7 @@
 ## Descrição
 
 <p align="justify">
-Desenvolvimento do meu portfólio para apresentação de alguns dos meus projetos.
+Projeto desenvolvido em html, css e javascript do meu portfólio para apresentação de alguns dos meus projetos.
 </p>
 
 
@@ -18,14 +18,14 @@ Desenvolvimento do meu portfólio para apresentação de alguns dos meus projeto
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Cadastro-de-filmes)
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Portfolio-Thamyres). 
 
-Neste repositório você tem acesso a todo o material produzido no curso.
+Neste repositório você tem acesso a todo os códigos.
 
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Para abrir e rodar o projeto, basta clicar nesse [link](https://thamyresmya.github.io/Portfolio-Thamyres/).
 
 ## Desenvolvedores
 
